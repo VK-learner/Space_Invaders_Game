@@ -1,7 +1,9 @@
 # 🚀 Space Invaders Game
 
 A classic Space Invaders arcade game built with Python and Pygame. Defend Earth by shooting down waves of alien invaders!
-
+<p align="center">
+  <img src="gameplay-screenshot.png" width="700" alt="Space Invaders Game demo"/>
+</p>
 ## 🎮 Features
 
 - **Classic Gameplay**: Move left/right and shoot enemies
